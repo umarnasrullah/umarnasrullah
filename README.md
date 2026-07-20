@@ -131,10 +131,7 @@ I enjoy turning ideas into high-quality software using modern technologies while
 ---
 
 ## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL@example.com
-- 🌐 Portfolio: https://yourportfolio.com
+- 📧 Email: umarnasrullah870@gmail.com
 
 ---
 
