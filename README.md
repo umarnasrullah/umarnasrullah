@@ -30,6 +30,7 @@
 | 📱 [**Dastiphone**](https://github.com/umarnasrullah/DastiPhone-Showcase) 🔒 | Phone marketplace for Pakistan: web app + Android app, real-time chat, admin panel | React · React Native/Expo · Express · MongoDB · Socket.io |
 | 🍬 [**Mithai Mania**](https://github.com/umarnasrullah/mithai-mania) 🔒 · [Live](https://umarnasrullah.github.io/mithai-mania/) | Match-3 sweet-shop puzzle game for Android: 300 levels, Play Billing, AdMob | Flutter · Dart · Riverpod |
 | 🔍 [**PhoneInspector**](https://github.com/umarnasrullah/PhoneInspector-Showcase) 🔒 | Windows tool that inspects Android phones over ADB and grades them for resale | C# · .NET 8 · WPF · MVVM · EF Core |
+| 📅 [**UniSync**](https://github.com/umarnasrullah/UniSync-Showcase) 🔒 | Class timetable & lecture-management PWA with push notifications, used by my university class | React · TypeScript · Supabase · Web Push |
 | 🩺 [**Physician AssistPro**](https://github.com/umarnasrullah/OPT-MED-Final) · [Live](https://umarnasrullah.github.io/OPT-MED-Final/) | Multi-page responsive website for a medical scribing service | HTML · CSS · JavaScript |
 | 📄 [**PDF-to-Text Extractor**](https://github.com/umarnasrullah/Pdf-to-Text-Extractor) | Extracts text from digital and scanned PDFs with OCR fallback | Python · pdfplumber · Tesseract |
 | 🌿 [**PlantVillage Disease Classifier**](https://github.com/umarnasrullah/PlantVillage-Disease-Classifier-Model) | CNN that classifies tomato, potato and pepper leaf diseases (~89% test accuracy) | Python · TensorFlow · Keras |
@@ -37,7 +38,6 @@
 ### 🔨 Currently building
 
 - **PARVA Health AI**: AI-assisted healthcare navigation & telemedicine platform for Pakistan (final year project)
-- **UniSync**: class timetable & lecture management PWA (React · Supabase)
 
 ---
 
