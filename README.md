@@ -30,6 +30,7 @@
 | 📱 [**Dastiphone**](https://github.com/umarnasrullah/DastiPhone-Showcase) 🔒 | Phone marketplace for Pakistan: web app + Android app, real-time chat, admin panel | React · React Native/Expo · Express · MongoDB · Socket.io |
 | 🍬 [**Mithai Mania**](https://github.com/umarnasrullah/mithai-mania) 🔒 · [Live](https://umarnasrullah.github.io/mithai-mania/) | Match-3 sweet-shop puzzle game for Android: 300 levels, Play Billing, AdMob | Flutter · Dart · Riverpod |
 | 🔍 [**PhoneInspector**](https://github.com/umarnasrullah/PhoneInspector-Showcase) 🔒 | Windows tool that inspects Android phones over ADB and grades them for resale | C# · .NET 8 · WPF · MVVM · EF Core |
+| 💙 [**PARVA Health AI**](https://github.com/umarnasrullah/PARVA-Health-AI-Showcase) 🚧 | AI-assisted healthcare navigation & telemedicine platform for Pakistan (final year project) | Next.js · Node.js · MongoDB · FastAPI · LLM · WebRTC |
 | 📅 [**UniSync**](https://github.com/umarnasrullah/UniSync-Showcase) 🔒 | Class timetable & lecture-management PWA with push notifications, used by my university class | React · TypeScript · Supabase · Web Push |
 | 🩺 [**Physician AssistPro**](https://github.com/umarnasrullah/OPT-MED-Final) · [Live](https://umarnasrullah.github.io/OPT-MED-Final/) | Multi-page responsive website for a medical scribing service | HTML · CSS · JavaScript |
 | 📄 [**PDF-to-Text Extractor**](https://github.com/umarnasrullah/Pdf-to-Text-Extractor) | Extracts text from digital and scanned PDFs with OCR fallback | Python · pdfplumber · Tesseract |
@@ -37,7 +38,8 @@
 
 ### 🔨 Currently building
 
-- **PARVA Health AI**: AI-assisted healthcare navigation & telemedicine platform for Pakistan (final year project)
+- **PARVA Health AI** (final year project): turning the [approved designs](https://github.com/umarnasrullah/PARVA-Health-AI-Showcase) into a working platform
+- **Phone Inspector Pro**: building the diagnostic modules
 
 ---
 
