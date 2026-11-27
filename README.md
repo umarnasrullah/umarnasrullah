@@ -25,7 +25,7 @@
 
 | Project | What it is | Tech |
 |---|---|---|
-| 🏥 [**Tech Nexus CMS**](https://github.com/umarnasrullah/CMS) | Full-stack clinic management SaaS: patients, appointments, billing, pharmacy inventory, role-based access | React · TypeScript · Node.js · Express · SQLite · JWT |
+| 🏥 [**Tech Nexus CMS**](https://github.com/umarnasrullah/Tech-Nexus-CMS-Showcase) 🔒 | Full-stack clinic management SaaS: patients, appointments, billing, pharmacy inventory, role-based access | React · TypeScript · Node.js · Express · SQLite · JWT |
 | 🩺 [**Physician AssistPro**](https://github.com/umarnasrullah/OPT-MED-Final) · [Live](https://umarnasrullah.github.io/OPT-MED-Final/) | Multi-page responsive website for a medical scribing service | HTML · CSS · JavaScript |
 | 🍬 [**Mithai Mania**](https://github.com/umarnasrullah/mithai-mania) · [Live](https://umarnasrullah.github.io/mithai-mania/) | Match-3 sweet-shop puzzle game for Android, with website & privacy policy | Flutter · Dart · HTML/CSS |
 | 📄 [**PDF-to-Text Extractor**](https://github.com/umarnasrullah/Pdf-to-Text-Extractor) | Extracts text from digital and scanned PDFs with OCR fallback | Python · pdfplumber · Tesseract |
@@ -91,3 +91,5 @@ Next.js · Docker · AWS · System Design · Advanced Machine Learning
 ---
 
 <p align="center">⭐ Thanks for visiting! Feel free to explore my repositories or reach out.</p>
+
+<p align="center"><sub>🔒 = source code private, showcase public. Code walkthroughs available on request. © M. Umar Nasrullah, all rights reserved.</sub></p>
