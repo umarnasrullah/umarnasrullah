@@ -26,8 +26,11 @@
 | Project | What it is | Tech |
 |---|---|---|
 | 🏥 [**Tech Nexus CMS**](https://github.com/umarnasrullah/Tech-Nexus-CMS-Showcase) 🔒 | Full-stack clinic management SaaS: patients, appointments, billing, pharmacy inventory, role-based access | React · TypeScript · Node.js · Express · SQLite · JWT |
+| 💊 [**Pharmacy Management System**](https://github.com/umarnasrullah/Pharmacy-Management-System-Showcase) 🔒 | Offline desktop POS & inventory system sold to pharmacies, with a Windows installer | Electron · React · Express · Prisma · SQLite |
+| 📱 [**Dastiphone**](https://github.com/umarnasrullah/DastiPhone-Showcase) 🔒 | Phone marketplace for Pakistan: web app + Android app, real-time chat, admin panel | React · React Native/Expo · Express · MongoDB · Socket.io |
+| 🍬 [**Mithai Mania**](https://github.com/umarnasrullah/mithai-mania) 🔒 · [Live](https://umarnasrullah.github.io/mithai-mania/) | Match-3 sweet-shop puzzle game for Android: 300 levels, Play Billing, AdMob | Flutter · Dart · Riverpod |
+| 🔍 [**PhoneInspector**](https://github.com/umarnasrullah/PhoneInspector-Showcase) 🔒 | Windows tool that inspects Android phones over ADB and grades them for resale | C# · .NET 8 · WPF · MVVM · EF Core |
 | 🩺 [**Physician AssistPro**](https://github.com/umarnasrullah/OPT-MED-Final) · [Live](https://umarnasrullah.github.io/OPT-MED-Final/) | Multi-page responsive website for a medical scribing service | HTML · CSS · JavaScript |
-| 🍬 [**Mithai Mania**](https://github.com/umarnasrullah/mithai-mania) · [Live](https://umarnasrullah.github.io/mithai-mania/) | Match-3 sweet-shop puzzle game for Android, with website & privacy policy | Flutter · Dart · HTML/CSS |
 | 📄 [**PDF-to-Text Extractor**](https://github.com/umarnasrullah/Pdf-to-Text-Extractor) | Extracts text from digital and scanned PDFs with OCR fallback | Python · pdfplumber · Tesseract |
 | 🌿 [**PlantVillage Disease Classifier**](https://github.com/umarnasrullah/PlantVillage-Disease-Classifier-Model) | CNN that classifies tomato, potato and pepper leaf diseases (~89% test accuracy) | Python · TensorFlow · Keras |
 
